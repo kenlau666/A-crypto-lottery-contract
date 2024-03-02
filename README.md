@@ -1,3 +1,5 @@
+# A blockchain-based casino with Goldwasser-Micali Cryptosystem and Homomorphic Encryption
+
 ##  Introduction
 
 This is a blockchain-based casino project. This casino supports only one type of bet: the bettor puts down a deposit of 0.01 ETH. With probability 0.5, the bet is won and you have to pay them 1 eth. Similarly, with probability 0.5, the bet is lost and you get to keep their deposit.
