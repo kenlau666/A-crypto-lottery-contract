@@ -22,7 +22,7 @@ Finally, although you are aware of the standard methods of random number generat
 6. If any cheating is detected, it can be reported to the smart contract, which would use the casino’s deposit to pay twice as much as their losses to the wronged bettors.
 7. If no cheating is reported to the smart contract after a fixed deadline, or if all the reports were false, the casino can get its money back.
 
-## 4. Problems of the contract (TO DO)
+## 4. Problems of the contract (TO-DO)
 1. It treats the players (authority vs non-authority) differently. For example, it requires the authority to move last
 2. Casino's deposit is fixed, which may not be enough, or might on the other hand be too much and unaffordable for the casino. This has to be dynamic.
 3. This contract allows the same value of k to be reused. So, when a bettor wins, they can make many more bets with the same k. 
